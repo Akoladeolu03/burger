@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "handlebars-helper-css": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akoladeolu03/burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akoladeolu03/burger/issues"
+  },
+  "homepage": "https://github.com/Akoladeolu03/burger#readme"
 }
